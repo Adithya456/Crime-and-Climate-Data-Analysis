@@ -20,8 +20,8 @@ This study focuses on understanding how climate factors may influence crime rate
 ## Project Files
 - **data/crime_data.csv**: Contains crime details, including categories, locations, and dates.
 - **data/climate_data.csv**: Daily climate data for Colchester, UK, in 2023.
-- **scripts/Crime_and_Climate_Data_Analysis**: R scripts for data preprocessing, EDA, and visualizations.
-- **report/Crime_Climate_Data_Analysis_Report.pdf**: [Detailed project report](report/Crime-and-Climate-Data-Analysis-Report.pdf) with methodology, results, and conclusions.
+- **scripts/Crime_Climate_Data_Analysis**: R scripts for data preprocessing, EDA, and visualizations.
+- **report/Crime_Climate_Data_Analysis_Report.pdf**: [Detailed project report](report/Crime_Climate_Data_Analysis_Report.pdf) with methodology, results, and conclusions.
 - **README.md**: Project documentation (this file).
 - **LICENSE**: [Project license](LICENSE) detailing terms of use.
 
@@ -68,4 +68,4 @@ Contributions are welcome! If you find any issues or want to improve the code, f
 This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for more details.
 
 
-For more details, please refer to the [project report](./Crime-and-Climate-Data-Analysis-Report.pdf).
+For more details, please refer to the [project report](./Crime_Climate_Data_Analysis_Report.pdf).
