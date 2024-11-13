@@ -52,8 +52,8 @@ The following R packages are required:
 - `reshape2` - Data reshaping
 
 Install dependencies with:
-```R
-install.packages(c("dplyr", "plotly", "ggplot2", "lubridate", "xts", "forecast", "kableExtra", "leaflet", "ggcorrplot", "reshape2"))
+```bash
+pip install -r requirements.txt
 ```
 
 ## Results and Conclusion
