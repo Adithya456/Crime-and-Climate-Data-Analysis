@@ -1,4 +1,4 @@
-# Crime-Climate-Data-Analysis
+# Crime and Climate Data Analysis
 
 ## Project Description
 This project explores crime patterns in Colchester, UK, for 2023 alongside climate data to examine possible links between crime rates and climate conditions. Analyzing crime categories, locations, and seasonal trends provides insights into public safety and examines potential environmental impacts on crime.
